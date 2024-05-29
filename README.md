@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # alura-react-router-js
 Aplicação "Olá mundo" desenvolvida como projeto do curso "React: desenvolvendo em React Router com JavaScript"
 =======
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> ae685ea (Initialize project using Create React App)
