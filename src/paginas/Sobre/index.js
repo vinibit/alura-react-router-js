@@ -1,6 +1,6 @@
 function Sobre() {
     return (
-        <h1>Sobre mim...</h1>
+        <h1>Aqui você confere tudo sobre mim...</h1>
     )
 }
 
